@@ -1,3 +1,4 @@
+![out-of-focus-1030385_1280-01 (1)](https://github.com/Taimkellizy/Taimkellizy/assets/142005560/a2865a19-cc47-446b-b9dd-2609911ec680)
 # 💫 Hi, I'm Taim!
 As a high school student with roots in Syria, I’ve embarked on a transformative journey to Egypt.<br> Embracing the vibrant diversity and history of my new community,<br> I aspire to learn, grow, and contribute meaningfully to the world of programming.<br> Whether it’s coding, problem-solving, or building innovative solutions, I’m eager to make an impact.
 
