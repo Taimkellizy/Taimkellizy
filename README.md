@@ -1,5 +1,5 @@
 # 💫 Hello, my name is Taim!
-As a high school student with roots in Syria, I’ve embarked on a transformative journey to Egypt.<br> Embracing the vibrant diversity and history of my new community, I aspire to learn, grow, and contribute meaningfully to the world of programming.<br> Whether it’s coding, problem-solving, or building innovative solutions, I’m eager to make an impact.
+As a high school student with roots in Syria, I’ve embarked on a transformative journey to Egypt.<br> Embracing the vibrant diversity and history of my new community,<br> I aspire to learn, grow, and contribute meaningfully to the world of programming.<br> Whether it’s coding, problem-solving, or building innovative solutions, I’m eager to make an impact.
 
 
 ## 🌐 Socials:
