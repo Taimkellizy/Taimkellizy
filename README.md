@@ -1,6 +1,6 @@
 ![out-of-focus-1030385_1280-01 (1)](https://github.com/Taimkellizy/Taimkellizy/assets/142005560/a2865a19-cc47-446b-b9dd-2609911ec680)
 # 💫 Hi, I'm Taim!
-As a high school student originally from Syria, I’ve embarked on a meaningful journey in Egypt.<br> Embracing the culture and history around me, I’m determined to learn, grow, and contribute to the field of programming.<br> Whether through coding, solving problems, or creating new solutions, I’m excited to make a positive impact.
+I am a high school student from Syria now in Egypt, I am passionate about programming and eager to make a positive impact through coding, problem-solving, and innovative solutions while embracing the rich culture and history around me.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/uXxoUqv999Kq4MVn/?mibextid=qi2Omg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TaimKellizy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TaimKellizy) 
