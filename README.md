@@ -1,16 +1,69 @@
-![out-of-focus-1030385_1280-01 (1)](https://github.com/Taimkellizy/Taimkellizy/assets/142005560/a2865a19-cc47-446b-b9dd-2609911ec680)
-# 💫 Hi, I'm Taim!
-I am a high school student from Syria now in Egypt, I am passionate about programming and eager to make a positive impact through coding, problem-solving, and innovative solutions while embracing the rich culture and history around me.
+![Header](https://github.com/Taimkellizy/Taimkellizy/assets/142005560/a2865a19-cc47-446b-b9dd-2609911ec680)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/uXxoUqv999Kq4MVn/?mibextid=qi2Omg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TaimKellizy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TaimKellizy) 
+# 👋 Hi, I’m Taim
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Taimkellizy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+CS freshman & software developer originally from **Syria**, currently studying in **Egypt** 🇸🇾 🇪🇬  
+I build things with code — mostly web apps — and I care a lot about **clean architecture, real-world impact, and accessibility**, especially for Arabic users.
+
+I’m here to **ship**, learn fast, and get better every week.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Taimkellizy&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I’m Focused On
+- Full-stack web development (React, Flask)
+- Arabic-first & RTL-friendly web experiences
+- Open-source projects
+- Turning ideas into usable products (not just demos)
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
+
+### Backend & Data
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 🛠 Featured Project
+### **Arabify**
+> A client-side tool that scans HTML/CSS for Arabic readiness (RTL, typography, accessibility, performance).
+
+- React-based UI with live preview
+- Arabic accessibility & RTL analysis
+- Scoring system
+- Built for real developers, not just theory
+
+👉 Check it out in my pinned repositories.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taimkellizy&theme=tokyonight&hide_border=false)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TaimKellizy)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TaimKellizy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/uXxoUqv999Kq4MVn/?mibextid=qi2Omg)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Taimkellizy&icon=0&color=1)
