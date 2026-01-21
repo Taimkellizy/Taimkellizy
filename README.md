@@ -63,7 +63,3 @@ I’m here to **ship**, learn fast, and get better every week.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TaimKellizy)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TaimKellizy)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/uXxoUqv999Kq4MVn/?mibextid=qi2Omg)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Taimkellizy&icon=0&color=1)
