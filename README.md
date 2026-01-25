@@ -1,4 +1,4 @@
-![Header](https://github.com/Taimkellizy/Taimkellizy/assets/142005560/a2865a19-cc47-446b-b9dd-2609911ec680)
+![Header](https://github.com/Taimkellizy/Taimkellizy/blob/18e96204a9171ede80a3b920adcf675b726b0f47/Arabify-banner.png)
 
 # 👋 Hi, I’m Taim
 
